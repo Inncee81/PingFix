@@ -1,2 +1,0 @@
-# PingFix
-Fortnite Ping Fixer
